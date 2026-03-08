@@ -101,5 +101,5 @@ runs stored in `<repo>/.hep-ci/`:
 hep           version control    (92 commands)
 hep-server    repo server        (git HTTP + web UI)
 hep-ci        this
-hep-forge     code review + issues  (coming)
+hep-forge     code review + issues  (existing)
 ```
